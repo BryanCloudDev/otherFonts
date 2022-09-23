@@ -21,19 +21,3 @@
   src: url('./avenirltstd-book-webfont.woff') format('woff'),
        url('./avenirltstd-book-webfont.woff2') format('woff2');    
 }
-
-.avenirLight{
-  font-family: 'avenirLight' ;
-}
-
-.avenirMedium{
-  font-family: 'avenirMedium' ;
-}
-
-.gillsansMedium{
-  font-family: 'gillsansMedium' ;
-}
-
-.gillsans{
-  font-family: 'gillsans' ;
-}
