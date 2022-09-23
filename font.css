@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'gillsans';
+  src: url('./gill_sans-webfont.woff2') format('woff2'),
+       url('./gill_sans-webfont.woff') format('woff');    
+}
+
+@font-face {
+  font-family: 'gillsansMedium';
+  src: url('./gill_sans_medium-webfont.woff') format('woff'),
+       url('./gill_sans_medium-webfont.woff2') format('woff2');    
+}
+
+@font-face {
+  font-family: 'avenirMedium';
+  src: url('./avenirltstd-roman-webfont.woff') format('woff'),
+       url('./avenirltstd-roman-webfont.woff2') format('woff2');    
+}
+
+@font-face {
+  font-family: 'avenirLight';
+  src: url('./avenirltstd-book-webfont.woff') format('woff'),
+       url('./avenirltstd-book-webfont.woff2') format('woff2');    
+}
+
